@@ -58,7 +58,7 @@ You should know what those files and code should define, provide, and do.
 
 You should constantly save and test your code with every significant change.
 
-***ADD NOTE HERE ON PREVIEWING HTML?????***
+**TOP TIP**: In the Learn IDE, you can preview your code by right-clicking the HTML file and selecting "Preview" from the menu.
 
 You should keep on trying until you get it working. It doesn't matter how many times you fail as long as it is one less than the times you tried.
 
