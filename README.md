@@ -9,7 +9,7 @@ We'll eventually introduce you to all of the Git mechanics that make this work. 
 You'll use the same workflow to solve every lab on Learn. It involves 3 steps:
 
 1. Opening the lab.
-2. Working on the lab until you get all tests to pass.
+2. Working on the lab.
 3. Submitting your solution.
 
 Let's walk through the process. For now, just read along. **You don't need to actually perform any actions right now**. You'll have the opportunity to practice this entire workflow in the next lesson!
@@ -33,8 +33,6 @@ This will launch the Learn IDE application.
 3. It then "cd's" into the lab's directory so that you're ready to go.
 
 ## Solving a Lab
-
-**Key takeaway: use the `learn` command to run tests until they all pass.**
 
 Once you've opened your lab in the Learn IDE, you'll be ready to start solving it. This is the fun part!
 
