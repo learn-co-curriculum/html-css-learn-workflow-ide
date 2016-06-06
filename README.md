@@ -72,9 +72,9 @@ Programming is never about getting it all right at once. Programming is like sol
 
 **Key takeaway: use the `learn submit` command to submit your solution.**
 
-Once you've written the code that solves a lab, and confirmed that your solution is correct using the `learn` command, you then need to submit your solution to Learn so that you can get credit for completion and move on to the next lesson.
+Once you've written the code that solves a lab and are happy with your solution, you then need to submit your solution to Learn so that you can get credit for completion and move on to the next lesson.
 
-In order to submit your solution to Learn, from the lab's directory in your Terminal, you will just need to run:
+In order to submit your solution to Learn, from the lab's directory in the IDE's Terminal, you will just need to run:
 
 ```
 learn submit
@@ -101,5 +101,7 @@ Use `learn submit` to submit your solution.
 
 And always make sure you have a working Internet connection so that you can save and submit your labs. 
 
-You are now ready to practice the Learn workflow with your first lab! Congratulations!
+You are now ready to practice the Learn workflow with your first lab, up next! Get ready for it!
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-css-learn-workflow-ide'>HTML CSS Learn Workflow IDE</a> on Learn.co and start learning to code for free.</p>
